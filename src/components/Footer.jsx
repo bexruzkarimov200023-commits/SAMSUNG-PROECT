@@ -4,10 +4,10 @@ export default function Footer() {
   return (
     <div>
        <footer className="w-full bg-[#121212] text-white pt-16 font-sans">
-      {/* Yuqori qism: Linklar va Aloqa */}
+
       <div className="max-w-300 mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-10 pb-16">
         
-        {/* Services ustuni */}
+
         <div>
           <h3 className="text-base font-semibold mb-6 text-white tracking-wide">Services</h3>
           <ul className="space-y-4">
@@ -21,7 +21,6 @@ export default function Footer() {
           </ul>
         </div>
 
-        {/* Resources ustuni */}
         <div>
           <h3 className="text-base font-semibold mb-6 text-white tracking-wide">Resources</h3>
           <ul className="space-y-4">
@@ -35,7 +34,7 @@ export default function Footer() {
           </ul>
         </div>
 
-        {/* Connect with us ustuni */}
+
         <div>
           <h3 className="text-base font-semibold mb-6 text-white tracking-wide">Connect with us</h3>
           <div className="space-y-4 text-sm text-[#a0a0a0]">
@@ -54,7 +53,6 @@ export default function Footer() {
             </p>
           </div>
 
-          {/* Ijtimoiy tarmoq piktogrammalari */}
           <div className="flex items-center gap-5 mt-6">
             <a href="#" className="text-white text-lg hover:text-[#a0a0a0] hover:-translate-y-0.5 transition-all duration-300">
               <FaTwitter />
@@ -73,7 +71,7 @@ export default function Footer() {
 
       </div>
 
-      {/* Pastki qism: Logo va Mualliflik huquqi */}
+
       <div className="border-t border-[#262626] py-8">
         <div className="max-w-300 mx-auto px-6 flex flex-col sm:flex-row justify-between items-center gap-4">
           <div className="text-2xl font-bold tracking-tight">Pixer</div>
