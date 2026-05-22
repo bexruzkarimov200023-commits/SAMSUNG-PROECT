@@ -24,7 +24,7 @@ export default function NimaIsh() {
         <img 
           src="https://images.unsplash.com/photo-1629904853716-f0bc54eea481?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
           alt="Rasim 1" 
-          className="w-full h-[350px] object-cover rounded-lg"
+          className="w-full h-90 object-cover rounded-lg"
         />
       </div>
       <div className="w-full md:w-1/2 text-left">
@@ -43,7 +43,7 @@ export default function NimaIsh() {
         <img 
           src="https://images.unsplash.com/photo-1629904853716-f0bc54eea481?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
           alt="Rasim 2" 
-          className="w-full h-[350px] object-cover rounded-lg"
+          className="w-full h-90 object-cover rounded-lg"
         />
       </div>
       <div className="w-full md:w-1/2 text-left">
@@ -62,7 +62,7 @@ export default function NimaIsh() {
         <img 
           src="https://images.unsplash.com/photo-1629904853716-f0bc54eea481?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
           alt="Rasim 3" 
-          className="w-full h-[350px] object-cover rounded-lg"
+          className="w-full h-90 object-cover rounded-lg"
         />
       </div>
       <div className="w-full md:w-1/2 text-left">

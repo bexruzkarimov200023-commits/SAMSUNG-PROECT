@@ -8,9 +8,9 @@ export default function App() {
   return (
     <div>
       <Header />
-      <Login />
-      <NimaIsh />
       <NimaYordam />
+      <NimaIsh />
+      <Login />
       <Footer />
     </div>
   )
