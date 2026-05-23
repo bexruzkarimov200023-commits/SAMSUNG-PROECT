@@ -4,7 +4,7 @@ export default function NimaIsh() {
   return (
 <div className="bg-white py-16 px-4 max-w-6xl mx-auto font-sans">
   
-  {/* Sarlavha qismi */}
+  
   <div className="text-center max-w-2xl mx-auto mb-20">
     <h2 className="text-3xl font-bold text-gray-900 mb-4">
       How do we work?
@@ -15,10 +15,9 @@ export default function NimaIsh() {
     </p>
   </div>
 
-  {/* Bloklar ro'yxati */}
   <div className="space-y-24">
     
-    {/* 1-Blok: Rasm chapda, Matn o'ngda */}
+  
     <div className="flex flex-col md:flex-row items-center gap-12 md:gap-20">
       <div className="w-full md:w-1/2">
         <img 
@@ -37,7 +36,7 @@ export default function NimaIsh() {
       </div>
     </div>
 
-    {/* 2-Blok: Rasm o'ngda, Matn chapda */}
+  
     <div className="flex flex-col md:flex-row-reverse items-center gap-12 md:gap-20">
       <div className="w-full md:w-1/2">
         <img 
@@ -56,7 +55,7 @@ export default function NimaIsh() {
       </div>
     </div>
 
-    {/* 3-Blok: Rasm chapda, Matn o'ngda */}
+    
     <div className="flex flex-col md:flex-row items-center gap-12 md:gap-20">
       <div className="w-full md:w-1/2">
         <img 
